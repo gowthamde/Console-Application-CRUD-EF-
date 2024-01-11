@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodStop", "FoodStop\FoodStop.csproj", "{CD5A85E0-AFB5-4969-AD52-11B9B448EC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodStop_Db", "FoodStop_Db\FoodStop_Db.csproj", "{A918F8B6-D4ED-4DA4-A2FD-E80AC31A17D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5A85E0-AFB5-4969-AD52-11B9B448EC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5A85E0-AFB5-4969-AD52-11B9B448EC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5A85E0-AFB5-4969-AD52-11B9B448EC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5A85E0-AFB5-4969-AD52-11B9B448EC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A918F8B6-D4ED-4DA4-A2FD-E80AC31A17D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A918F8B6-D4ED-4DA4-A2FD-E80AC31A17D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A918F8B6-D4ED-4DA4-A2FD-E80AC31A17D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A918F8B6-D4ED-4DA4-A2FD-E80AC31A17D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984B3A34-214E-491A-BC07-8EFE79148BA0}
+	EndGlobalSection
+EndGlobal
